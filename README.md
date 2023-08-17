@@ -1,8 +1,6 @@
 # Домашнее задание к занятию «Prometheus. Часть 2» - `Рыбак Егор`
 
 
-
-
 ---
 
 ### Задание 1
@@ -12,7 +10,7 @@
 - [ ] Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending
 
 ### Ответ:
-
+![9_05-1](https://github.com/RybakEgor/9-05_Prometheus_Part2/blob/main/img/9_05-1.png)
 ---
 
 ### Задание 2
@@ -22,6 +20,10 @@
 - [ ] Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
 
 ### Ответ:
+1.
+- ![9_05-2.1](https://github.com/RybakEgor/9-05_Prometheus_Part2/blob/main/img/9_05-2.1.png)
+2.
+- ![9_05-2.2](https://github.com/RybakEgor/9-05_Prometheus_Part2/blob/main/img/9_05-2.2.png)
 ---
 
 ### Задание 3
@@ -32,6 +34,10 @@
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
 ### Ответ:
+1.
+- ![9_05-3.1](https://github.com/RybakEgor/9-05_Prometheus_Part2/blob/main/img/9_05-3.1.png)
+2.
+- ![9_05-3.2](https://github.com/RybakEgor/9-05_Prometheus_Part2/blob/main/img/9_05-3.2.png)
 ---
 
 ### Задание 4* со звездочкой 
